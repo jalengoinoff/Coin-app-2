@@ -1,4 +1,7 @@
+# Coin a summary
+A crypto tracker a application that allows users to monitor and analyze the performance of various cryptocurrencies in real-time. It provides users with key information such as current prices, historical data, market trends, trading volumes, and you can also have  a watchlist to keep trak of data
 # Coin app 2
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,8 +75,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # cryptocurrency-tracker
 # Coin-app
 # Coin-app
+
+
+
+##
 # crypto-app
 # crypto-app
 # crypto-app
 # crypto-app
 # Coin-app
+
+
+Built with
+React JS
+mdbootstrap
+recharts JS
+Firebase
