@@ -1,0 +1,54 @@
+/* Chartdata.module.css */
+
+.App {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #100e0e; 
+}
+
+input[type="text"] {
+  padding: 10px;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+  background-color: #6c6c6c;
+}
+
+thead tr th {
+  padding: 10px;
+}
+
+tbody tr {
+  cursor: pointer;
+}
+
+tbody tr:hover {
+  background-color: #f9f9f9;
+}
+
+td {
+  padding: 10px;
+  text-align: center;
+}
+
+.td-spacing {
+  padding: 10px 20px;
+}
+
+.crypto-row {
+  transition: background-color 0.3s ease;
+}

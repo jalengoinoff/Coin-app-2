@@ -1,0 +1,23 @@
+.navbarCustom {
+  display: flex;
+  justify-content: center;
+  background-color: #f8f9fa; /* Set the background color */
+  padding: 10px 0; /* Add some padding for space */
+}
+
+.navList {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+
+.navItem {
+  margin: 0 10px; /* Add some space between the items */
+}
+
+.navLink {
+  text-decoration: none;
+  color: black;
+  font-size: 1.2em;
+}
+
