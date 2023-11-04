@@ -5,8 +5,8 @@ import App from './App';
 import ChartdataProvider  from "./context/ChartdataProvider";
 import { WatchlistProvider } from './context/WatchlistContext';
 
-const root = document.getElementById("root");
-const rootInstance = createRoot(root); 
+
+
 
 rootInstance.render(
   <React.StrictMode>
@@ -15,5 +15,8 @@ rootInstance.render(
         <App />
       </ChartdataProvider>
     </WatchlistProvider>
-  </React.StrictMode>
+  </React.StrictMode>,
+  createRoot(root),
+  document.getElementById("root")
 );
+
