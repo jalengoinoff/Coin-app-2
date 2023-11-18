@@ -1,0 +1,54 @@
+/* ... (previous styles remain the same) */
+
+.container {
+  max-width: 100%;
+  padding: 0 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  overflow-x: auto;
+}
+
+thead th {
+  background-color: #3d3d3d;
+  color: #fff;
+  padding: 12px;
+  white-space: nowrap; /* Prevent text wrapping on small screens */
+  overflow: hidden;
+  text-overflow: ellipsis; /* Display ellipsis (...) for truncated text */
+}
+
+tbody td {
+  padding: 12px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+button {
+  background-color: #f5f5f5;
+  color: #0e0e0e;
+  border: none;
+  padding: 12px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #0932ff;
+}
+
+/* Add responsive styles for smaller screens */
+@media only screen and (max-width: 600px) {
+  thead th,
+  tbody td {
+    padding: 8px;
+  }
+
+  button {
+    padding: 8px;
+  }
+}

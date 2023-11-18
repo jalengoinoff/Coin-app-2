@@ -1,0 +1,42 @@
+/* Home.module.css */
+
+/* ... (your existing styles) */
+
+.custom-carousel-img {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+
+
+  .section__container h1,
+  .section__container h2,
+  .section__container p {
+    color: #050505; 
+  }
+
+  body {
+    background-color: #be6c00; 
+    margin: 0; 
+    font-family: Arial, sans-serif;
+    color: #414141; 
+  }
+
+  .section__container {
+    background-color: #797979; 
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  /* Add media queries for smaller screens, such as iPhones */
+  @media (max-width: 767px) {
+    .section__container {
+      padding: 10px;
+    }
+  
+    .custom-carousel-img {
+      max-width: 100%; 
+    }
+  }
