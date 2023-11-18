@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import styles from "./News.module.css";
-import { Helmet } from 'react-helmet';
+
 
 const News = () => {
   const [news, setNews] = useState([]);
