@@ -12,26 +12,36 @@ Firebase
 # Homepage
 Display basic sites info about trading and also display a carsuel that show the crypto symbol and  rank
 
-<img width="750" alt="Screen Shot 2023-11-16 at 6 52 34 AM" src="https://github.com/jalengoinoff/crypto-currency-tracker/assets/130809900/5ddc041c-0ad3-4c74-bd02-5b8518b7f9bb">
+<img width="750" alt="Screen Shot 2023-11-18 at 5 08 32 AM" src="https://github.com/jalengoinoff/crypto-currency-tracker/assets/130809900/e6a9b21d-64a3-492b-ae6d-b2a1916bfb78">
+
 
 # Crypto Chartdata
 
 Display the crypto table the show the crypto price,market cap and you able to click the watchlist button to add crypto coins to your watchlist
 
-<img width="750" alt="Screen Shot 2023-11-16 at 6 52 38 AM" src="https://github.com/jalengoinoff/crypto-currency-tracker/assets/130809900/0cdcbc95-e88e-4618-a911-a7fe6335d39f">
+<img width="750" alt="Screen Shot 2023-11-18 at 5 08 40 AM" src="https://github.com/jalengoinoff/crypto-currency-tracker/assets/130809900/db9c6b1b-0888-416b-bf73-3383e3ea502a">
+
+
 
 # Crypto graph 
 
  Display a graph showing the different changes in price using a historical chart
- 
-<img width="750" alt="Screen Shot 2023-11-16 at 7 46 57 AM" src="https://github.com/jalengoinoff/crypto-currency-tracker/assets/130809900/a95eec4b-d5db-4a35-9686-9708e29b31a2">
+ <img width="750" alt="Screen Shot 2023-11-18 at 5 14 31 AM" src="https://github.com/jalengoinoff/crypto-currency-tracker/assets/130809900/02946d68-1aca-4465-a05b-01583ac3ac01">
+
 
 # Watchlist
 Show the crypto coins that was added to watchlist
 
-<img width="750" alt="Screen Shot 2023-11-16 at 7 13 02 AM" src="https://github.com/jalengoinoff/crypto-currency-tracker/assets/130809900/da650aba-5fb8-4b30-acd8-bfcc857282ff">
+<img width="750" alt="Screen Shot 2023-11-18 at 5 08 44 AM" src="https://github.com/jalengoinoff/crypto-currency-tracker/assets/130809900/aca8b4f8-98e9-4bda-ade6-60ee7be47542">
+
 
 # News
 You are able to search for news releated to crypto coins 
-<img width="750" alt="Screen Shot 2023-11-16 at 7 13 13 AM" src="https://github.com/jalengoinoff/crypto-currency-tracker/assets/130809900/155b122c-c451-4cd7-a2f0-ceaba7b75376">
+<img width="750" alt="Screen Shot 2023-11-18 at 5 08 54 AM" src="https://github.com/jalengoinoff/crypto-currency-tracker/assets/130809900/b51a162a-d677-47ed-bafa-fe74df90a4c7">
+
+# Account
+<img width="750" alt="Screen Shot 2023-11-18 at 5 09 20 AM" src="https://github.com/jalengoinoff/crypto-currency-tracker/assets/130809900/7e3b7b66-50ed-46f8-8885-17b9a4b93bc4">
+
+
+
 
