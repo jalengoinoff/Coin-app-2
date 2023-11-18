@@ -36,7 +36,7 @@ The watchlist data is stored using firebase database and match with user uid
 
 # News
 You are able to search for news releated to crypto coins 
-Api used is url https://openapiv1.coinstats.app/news/search \<img width="750" alt="Screen Shot 2023-11-18 at 5 08 54 AM" src="https://github.com/jalengoinoff/crypto-currency-tracker/assets/130809900/b51a162a-d677-47ed-bafa-fe74df90a4c7">
+Api used is url https://openapiv1.coinstats.app/news/search \<img width="750" alt="Screen Shot 2023-11-18 at 5 08 54 AM" 
 
 # Account
 The account page allows the user to login and create a account and if the user the user can reset password and most of the data for the user is stored using firebase.
